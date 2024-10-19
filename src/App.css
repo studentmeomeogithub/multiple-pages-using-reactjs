@@ -1,0 +1,22 @@
+/* App.module.css */
+.tet {
+  color: blue;
+  font-size: 20px;
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1, p {
+  margin: 0;
+}
+
+a {
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #7469c2;
+}
